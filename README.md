@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="left">Opa 👋, e aí?</h1>
 
-<!--
-**edmilson016/edmilson016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Edmilson, e eu sou "Estudante de programação" e estou pronto para aprender algo novo ツ</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre min</h2>
+
+###
+
+<p align="left">✨ Comecei a fazer códigos em 2022<br>📚 Atualmente estou aprendendo Python e Banco de Dados<br>🎯 Tentando me tornar um programador profissional</p>
+
+###
+
+<h2 align="left">Eu codifico com</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
